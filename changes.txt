@@ -1,0 +1,13 @@
+{
+    File : data-service.js
+    Content : await new Promise((res) => setTimeout(res, 2000));
+    Purpose : Delay the rendering process by 2 seconds , if we delete this line there will be no side effects but the rendering will be faster in the {/cabins} page
+}
+
+
+shfit+alt+0 : Remove unused imports
+
+Faced Errors : {
+    while importing the component i imported as named Component which gave me error Unsupported Server Component type: undefined
+
+}

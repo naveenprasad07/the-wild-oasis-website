@@ -16,10 +16,12 @@ const authConfig = {
     async signIn({ user, account, profile }) {
       try {
         const existingGuest = await getGuest(user.email);
+
         if (!existingGuest)
           await createGuest({ email: user.email, fullName: user.name });
+
         return true;
-      } catch (err) {
+      } catch {
         return false;
       }
     },

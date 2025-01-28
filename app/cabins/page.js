@@ -37,3 +37,6 @@ export default function Page({ searchParams }) {
     </div>
   );
 }
+
+console.log(process.env.SUPABASE_URL);
+console.log(process.env.SUPABASE_KEY);

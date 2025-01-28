@@ -9,5 +9,6 @@ shfit+alt+0 : Remove unused imports
 
 Faced Errors : {
     while importing the component i imported as named Component which gave me error Unsupported Server Component type: undefined
+    while importing the component i had imported from the wrong folder so for figuring it took almost 2 hours
 
 }

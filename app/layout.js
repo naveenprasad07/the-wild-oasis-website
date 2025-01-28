@@ -10,8 +10,8 @@ const josefin = Josefin_Sans({
 export const metadata = {
   // title: "The Wild Oasis",
   title: {
-    template: "%s | The Wild Oasis",
-    default: "Welcome | The Wild Oasis",
+    template: "%s | WanderWood",
+    default: "Welcome | WanderWood",
   },
   description:
     "Luxurious cabin hotel, located in the heart of the Iftalian Dolomites surrounded by beautiful mountains and dark forests",

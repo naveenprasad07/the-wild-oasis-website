@@ -1,9 +1,9 @@
 export default function Page() {
   return (
-    <div className="grid grid-cols-5 gap-x-24 gap-y-32 text-lg items-center">
+    <div className="grid grid-cols-5 items-center gap-x-24 gap-y-32 text-lg">
       <div className="col-span-3">
-        <h1 className="text-4xl mb-10 text-accent-400 font-medium">
-          Welcome to The Wild Oasis
+        <h1 className="mb-10 text-4xl font-medium text-accent-400">
+          Welcome to WanderWood
         </h1>
 
         <div className="space-y-8">
@@ -40,30 +40,29 @@ export default function Page() {
       </div>
 
       <div className="col-span-3">
-        <h1 className="text-4xl mb-10 text-accent-400 font-medium">
+        <h1 className="mb-10 text-4xl font-medium text-accent-400">
           Managed by our family since 1962
         </h1>
 
         <div className="space-y-8">
           <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
+            Since 1962, WanderWood has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we've maintained the essence of The Wild Oasis,
-            blending the timeless beauty of the mountains with the personal
-            touch only a family business can offer. Here, you're not just a
-            guest; you're part of our extended family. So join us at The Wild
-            Oasis soon, where tradition meets tranquility, and every visit is
-            like coming home.
+            Over the years, we've maintained the essence of WanderWood, blending
+            the timeless beauty of the mountains with the personal touch only a
+            family business can offer. Here, you're not just a guest; you're
+            part of our extended family. So join us at WanderWood soon, where
+            tradition meets tranquility, and every visit is like coming home.
           </p>
 
           <div>
             <a
               href="/cabins"
-              className="inline-block mt-4 bg-accent-500 px-8 py-5 text-primary-800 text-lg font-semibold hover:bg-accent-600 transition-all"
+              className="mt-4 inline-block bg-accent-500 px-8 py-5 text-lg font-semibold text-primary-800 transition-all hover:bg-accent-600"
             >
               Explore our luxury cabins
             </a>

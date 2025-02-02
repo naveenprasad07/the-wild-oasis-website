@@ -15,7 +15,7 @@ export default async function Page() {
     <div className="grid grid-cols-5 items-center gap-x-24 gap-y-32 text-lg">
       <div className="col-span-3">
         <h1 className="mb-10 text-4xl font-medium text-accent-400">
-          Welcome to WanderWood
+          Welcome to Wild Oasis
         </h1>
 
         <div className="space-y-8">
@@ -29,8 +29,9 @@ export default async function Page() {
           <p>
             Our {cabins.length} luxury cabins provide a cozy base, but the real
             freedom and peace you&apos;ll find in the surrounding mountains.
-            Wander through lush forests, breathe in the fresh air, and watch the
-            stars twinkle above from the warmth of a campfire or your hot tub.
+            Wild Oasis through lush forests, breathe in the fresh air, and watch
+            the stars twinkle above from the warmth of a campfire or your hot
+            tub.
           </p>
           <p>
             This is where memorable moments are made, surrounded by
@@ -54,7 +55,7 @@ export default async function Page() {
           src="/about-2.jpg"
           fill
           className="object-cover"
-          alt="Family that manages WanderWood"
+          alt="Family that manages Wild Oasis"
         />
       </div>
 
@@ -65,13 +66,13 @@ export default async function Page() {
 
         <div className="space-y-8">
           <p>
-            Since 1962, WanderWood has been a cherished family-run retreat.
+            Since 1962, Wild Oasis has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we&apos;ve maintained the essence of Wander Wood,
+            Over the years, we&apos;ve maintained the essence of Wild Oasis,
             blending the timeless beauty of the mountains with the personal
             touch only a family business can offer. Here, you&apos;re not just a
             guest; you&apos;re part of our extended family. So join us at The

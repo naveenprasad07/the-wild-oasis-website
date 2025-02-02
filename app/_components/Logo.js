@@ -10,11 +10,9 @@ function Logo() {
         height="60"
         width="60"
         quality={100}
-        alt="WanderWood logo"
+        alt="Wild Oasis logo"
       />
-      <span className="text-xl font-semibold text-primary-100">
-        WanderWood
-      </span>
+      <span className="text-xl font-semibold text-primary-100">Wild Oasis</span>
     </Link>
   );
 }

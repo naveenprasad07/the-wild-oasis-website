@@ -3,7 +3,7 @@ export default function Page() {
     <div className="grid grid-cols-5 items-center gap-x-24 gap-y-32 text-lg">
       <div className="col-span-3">
         <h1 className="mb-10 text-4xl font-medium text-accent-400">
-          Welcome to WanderWood
+          Welcome to Wild Oasis
         </h1>
 
         <div className="space-y-8">
@@ -16,9 +16,9 @@ export default function Page() {
           </p>
           <p>
             Our 8 luxury cabins provide a cozy base, but the real freedom and
-            peace you'll find in the surrounding mountains. Wander through lush
-            forests, breathe in the fresh air, and watch the stars twinkle above
-            from the warmth of a campfire or your hot tub.
+            peace you'll find in the surrounding mountains. Wild Oasis through
+            lush forests, breathe in the fresh air, and watch the stars twinkle
+            above from the warmth of a campfire or your hot tub.
           </p>
           <p>
             This is where memorable moments are made, surrounded by nature's
@@ -46,16 +46,16 @@ export default function Page() {
 
         <div className="space-y-8">
           <p>
-            Since 1962, WanderWood has been a cherished family-run retreat.
+            Since 1962, Wild Oasis has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we've maintained the essence of WanderWood, blending
+            Over the years, we've maintained the essence of Wild Oasis, blending
             the timeless beauty of the mountains with the personal touch only a
             family business can offer. Here, you're not just a guest; you're
-            part of our extended family. So join us at WanderWood soon, where
+            part of our extended family. So join us at Wild Oasis soon, where
             tradition meets tranquility, and every visit is like coming home.
           </p>
 
